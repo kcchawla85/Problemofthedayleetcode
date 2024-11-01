@@ -5,7 +5,7 @@ This repository contains the solutions to all the LeetCode Problem of the Day. T
 
 Each solution is provided in a separate file with a clear naming convention that indicates the date,question number and the topic it belongs to. For example, `01July23_1_TwoSum.cpp` contains the solution for Two Sum problem.
 
-To find the solution for a particular question, you can navigate through the repository's directory structure and locate the file for the respective question. Each solution file contains the code implementation in a C++ programming language.
+To find the solution for a particular question, you can navigate through the repository's directory structure and locate the file for the respective question. Each solution file contains the code implementation in a Python Programming Language.
 
 ## Contributing
 
